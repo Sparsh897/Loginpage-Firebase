@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "505028125394",
+    "project_id": "login-register-authentic-b68a4",
+    "storage_bucket": "login-register-authentic-b68a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505028125394:android:8f785c3c5300c12aea830b",
+        "android_client_info": {
+          "package_name": "com.example.downsyndrome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505028125394-7u3bbnskov2blu7dd5sfqaqol483t8g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbzZVI10CVd2gK-dT42SShJQSuXBJynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505028125394-7u3bbnskov2blu7dd5sfqaqol483t8g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505028125394:android:3e3240b86265f1f2ea830b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505028125394-7u3bbnskov2blu7dd5sfqaqol483t8g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbzZVI10CVd2gK-dT42SShJQSuXBJynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505028125394-7u3bbnskov2blu7dd5sfqaqol483t8g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
